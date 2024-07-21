@@ -1,5 +1,4 @@
-Sustainable Living Advisor 
-
+Sustainable Living Advisor Chatbot
 A guideline to build a no-cost LLM chatbot
 
 This README provides a structured and detailed guide to help users through the process of creating and deploying a customized Sustainable Living Advisor chatbot using Hugging Face Spaces and Gradio, highlighting key steps and customization options, complete with useful links for easy navigation.
@@ -37,5 +36,5 @@ Contribution
 If you wish to contribute: Please fork this repo.
 
 Contact
-For any questions, reach out to ab4368259@alphacollege.me.
+For any questions, reach out to ab4368259@alphacollege.me
 
